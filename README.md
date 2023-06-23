@@ -90,7 +90,7 @@ Once "text_recognition.py" run completed, you should be able to see the images d
 
 **Client:** PyCharm IDE and boto3 for AWS SDK.
 
-**Cloud Services:** AWS EC2 instance, AWS SQS, AWS Rekognition, and AWS S3.
+**Cloud Services:** AWS EC2 instance, AWS SQS, AWS Rekognition, AWS Lambda and AWS S3.
 
 
 
